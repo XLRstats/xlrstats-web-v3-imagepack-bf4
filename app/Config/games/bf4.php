@@ -61,7 +61,7 @@ $config = array(
 	'weapons' => array(
 		//Weapon Image Path
 		/* Set this to ur private Server because of wrong paths */
-		'image_path' => '/img/bf4/',
+		'image_path' => '/img-packs/bf4/weapons/',
 
 		// Assault Rifles
 		'U_GalilACE23' => array('ACE 23', 'The ACE 23 is a weapon featured in Battlefield 4 for the Assault class.<br />It is unlocked upon completing the Assault Expert gold tier assignment.<br />It functions similarly to the M16A3 from Battlefield 3, coming closest <br />to its 800 RPM from the automatic weapons, having a firerate of 770 RPM,<br />making it one of the better assault rifles to be used in close quarters.<br />At longer ranges, more controlled bursts are recommended to maintain accuracy.<br />The addition of stability-enhancing attachments such as the Muzzle Brake<br />coupled with Stubby Grip; or Angled Grip with <b>Heavy Barrel</b> greatly extend<br />the weapon\'s effectiveness	beyond close and even mid-ranges.', 'galil_ace23_fancy.png','http://symthic.com/bf4-weapon-info?w=ACE_23'),
